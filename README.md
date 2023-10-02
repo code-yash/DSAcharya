@@ -1,7 +1,7 @@
 # DSAcharya
 A web-based portal that helps learners track their progress in learning Data Structures and Algorithms (DSA).
 
-##Introduction 
+## Introduction 
 The objective for the DSAcharya - All-in-One DSA Tracker project is to create a web-based
 tool that helps users track their progress in learning data structures and algorithms (DSA).
 The tool would allow users to log in, set daily target goals, and keep track of their progress,
@@ -10,9 +10,9 @@ relevant notes or resources they have accumulated.
 The project is be designed to be user-friendly, visually appealing, and accessible on
 multiple platforms of various screen-size(including mobile devices).
 
+------------------------------------------------
 
-----------------> Modules <----------------
-
+## Modules
 1. User Login: This module will handle user authentication and authorization, and user profile management. It uses session management for tracking the user login details.
 
 2. Learning Material: This module will provide learning materials such as important chapter-wise filtered video tutorials on various DSA topics.
@@ -27,7 +27,7 @@ multiple platforms of various screen-size(including mobile devices).
 
 ------------------------------------------------
 
-##Tech Stack
+## Tech Stack
 -HTML, CSS
 -Javascript, Jquery, Ajax
 -Java Servlet, JSP(Java Server Pages)
@@ -35,24 +35,26 @@ multiple platforms of various screen-size(including mobile devices).
 
 ------------------------------------------------
 
-##Requirements
+## Requirements
 -jdk 19
 -Apache NetBeans IDE 16
 -MySQL
 -apache-tomcat-9.0.71
 -mysql-connector-j-8.0.32.jar
+
 -------------------------------------------------
 
-##Steps to Run Project Using netbeans##
-# Do setup all requirements. Steps are given below.
-# Open Netbeans.
-# click on file > Open Project
-# Browse to 'dsacharya' folder in given project's folder.
-# click on run project.
+## Steps to Run Project Using NetBeans
+1. Do setup all initial requirements. Steps are given below.
+2. Open Netbeans.
+3. click on file > Open Project
+4. Browse to 'dsacharya' folder in given project's folder.
+5. click on run project.
+### Now you can explore the project.
 
-# Now you can use project. Explore it.
+------------------------------------------
+## Initial Setup
 
------------------>Setup<-------------------------
 1. Install all given requirements
 2. Extract given project's zip file
 3. Open NetBean and open our project in it.
@@ -65,7 +67,9 @@ multiple platforms of various screen-size(including mobile devices).
 	- Choose server location. (choose folder in which we have bin, conf,.. folders)
 	- Insert username and password then finish
 
-----------------> Getting Database <----------------
+--------------------------------
+##  Getting Database Working
+
 1. Open MySql workbench.
 2. click on database tab.
 3. choose connect to database.
