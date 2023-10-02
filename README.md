@@ -1,4 +1,7 @@
-# DSAcharya
+![apple-touch-icon](https://github.com/code-yash/DSAcharya/assets/33934375/491be53a-3b23-4cfd-a642-23ba47a316ae)
+
+# DSAcharya 
+
 A web-based portal that helps learners track their progress in learning Data Structures and Algorithms (DSA).
 
 ## Introduction 
