@@ -1,0 +1,77 @@
+.card {
+	border: 1px solid #ddd;
+	background-color: #fcfcfc;
+}
+
+.card .btn-group .btn {
+	transition: background-color 0.5s ease;
+}
+.table-filter {
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+.table-filter tbody tr:hover {
+	cursor: pointer;
+	background-color: #eee;
+}
+.table-filter tbody tr td {
+	padding: 10px;
+	vertical-align: middle;
+	border-top-color: #eee;
+}
+.table-filter tbody tr.selected td {
+	background-color: #eee;
+}
+
+.table-filter .star {
+	color: #ccc;
+	text-align: center;
+	display: block;
+}
+.table-filter .star.star-checked {
+	color: #F0AD4E;
+}
+.table-filter .star:hover {
+	color: #ccc;
+}
+.table-filter .star.star-checked:hover {
+	color: #F0AD4E;
+}
+
+.table-filter .title {
+	color: #007aff;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: normal;
+	margin: auto;
+}
+.table-filter .title span {
+	font-size: 1em;
+	margin-right: 20px;
+}
+.table-filter .title span.easy {
+	color: #5cb85c;
+}
+.table-filter .title span.medium {
+	color: #f0ad4e;
+}
+.table-filter .title span.hard {
+	color: #d9534f;
+}
+.table-filter .summary {
+	font-size: 14px;
+        margin: auto;
+}
+
+.bi-file-code-fill{
+    font-size: 20px;
+    color: #007aff;
+}
+.bi-file-code-fill:hover{
+    color: #5cb85c;
+    transform: translateY(10px);
+}
+.hovertitle:hover{
+    color: #000;
+}
+
